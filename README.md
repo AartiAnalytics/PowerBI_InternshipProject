@@ -2,6 +2,7 @@
 AI Job Market Analysis dashboard using Power BI showing salary trends, job demand, skills, and industry insights.
 
 🤖 AI Job Market Analysis Dashboard
+
 📖 The Story Behind This Project
 
 Artificial Intelligence is transforming industries across the world. New job roles are emerging rapidly, salaries are increasing, and companies are constantly searching for professionals with the right skills.
@@ -15,6 +16,7 @@ Are remote jobs becoming more common?
 To answer these questions, I built an interactive Power BI dashboard that analyzes AI job market data and converts raw information into meaningful insights.
 
 This project explores the global AI job landscape, helping students, professionals, and organizations understand the trends shaping the future of AI careers.
+
 🎯 Project Objective
 
 The goal of this project is to analyze the AI job market and uncover insights related to:
