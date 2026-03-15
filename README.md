@@ -8,11 +8,17 @@ AI Job Market Analysis dashboard using Power BI showing salary trends, job deman
 Artificial Intelligence is transforming industries across the world. New job roles are emerging rapidly, salaries are increasing, and companies are constantly searching for professionals with the right skills.
 
 But this raises an important question:
+
 What does the AI job market actually look like?
+
 Which AI roles are most in demand?
+
 What skills are companies looking for?
+
 Which industries pay the highest salaries?
+
 Are remote jobs becoming more common?
+
 To answer these questions, I built an interactive Power BI dashboard that analyzes AI job market data and converts raw information into meaningful insights.
 
 This project explores the global AI job landscape, helping students, professionals, and organizations understand the trends shaping the future of AI careers.
